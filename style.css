@@ -2209,7 +2209,7 @@ textarea.w-select {
 :root {
     --dark-color-text: #0d2342;
     --par-primary-color: #a8acb5;
-    --primary-yellow: #ffce10;
+    --primary-yellow: #39b583;
     --light-gray: #c2c5ca;
     --white-70: rgba(255, 255, 255, .7);
     --white: white;
@@ -2422,7 +2422,7 @@ figure {
 }
 
 .search-bottom-line-2 {
-    background-color: #ffce10;
+    background-color: #39b583;
     width: 100%;
     height: 3px;
     margin-bottom: 20px;
@@ -2430,7 +2430,7 @@ figure {
 }
 
 .yellow-h1 {
-    color: #ffce10
+    color: #39b583
 }
 
 .landing-features-grid {
@@ -2671,9 +2671,9 @@ figure {
 .primary-button {
     grid-column-gap: 10px;
     grid-row-gap: 10px;
-    border: 2px solid var(--primary-yellow);
-    background-color: var(--primary-yellow);
-    color: var(--dark-color-text);
+    border: 2px solid #39b583; /* New border color */
+    background-color: #39b583; /* New background color */
+     color: #000000; /* New text color */
     text-align: center;
     letter-spacing: .5px;
     text-transform: capitalize;
@@ -2890,7 +2890,7 @@ figure {
 }
 
 .yellow-strip {
-    background-color: #ffce10;
+    background-color: #39b583;
     align-items: flex-end;
     width: 100%;
     height: 3px;
@@ -2980,7 +2980,7 @@ figure {
 
 .landing-inner-page-item {
     text-align: center;
-    background-color: #ffce10;
+    background-color: #39b583;
     width: 100%;
     padding: 6px
 }
@@ -3049,7 +3049,7 @@ figure {
 }
 
 .landing-progress-bar-92 {
-    background-color: #ffce10;
+    background-color: #39b583;
     border-radius: 10px;
     width: 92%;
     height: 15px;
@@ -3058,7 +3058,7 @@ figure {
 }
 
 .landing-progress-bar-100 {
-    background-color: #ffce10;
+    background-color: #39b583;
     border-radius: 10px;
     width: 100%;
     height: 15px;
@@ -3112,7 +3112,7 @@ figure {
 }
 
 .footer-social-icon:hover {
-    color: #ffce10
+    color: #39b583
 }
 
 .footer-social-icon.last-child {
@@ -3137,7 +3137,7 @@ figure {
 }
 
 .header-link:hover {
-    color: #ffce10
+    color: #39b583
 }
 
 .main-container.clip {
@@ -3154,7 +3154,7 @@ figure {
 }
 
 .footer-link:hover {
-    color: #ffce10
+    color: #39b583
 }
 
 .footer-brand-wrapper {
@@ -3165,7 +3165,7 @@ figure {
 }
 
 .landing-progress-bar-95 {
-    background-color: #ffce10;
+    background-color: #39b583;
     border-radius: 10px;
     width: 95%;
     height: 15px;
@@ -3227,7 +3227,7 @@ figure {
 }
 
 .link-socials:hover {
-    color: #ffce10
+    color: #39b583
 }
 
 .nav-dropdown-link-wrapper {
@@ -3328,7 +3328,7 @@ figure {
 }
 
 .top-nav-container {
-    background-color: #0d2342;
+    background-color: #040404;
     border-bottom: .5px solid rgba(128, 156, 195, .3);
     justify-content: space-between;
     align-items: center;
@@ -3357,7 +3357,7 @@ figure {
 }
 
 .landing-download-block-wrapper {
-    background-color: #0d2342;
+    background-color: #040404;
     background-image: url(https://assets-global.website-files.com/65e08dfda73cbcf6a581a914/65e18aa0b5b3eb4b72158d3f_Frame%2047.webp);
     background-position: 0%;
     background-repeat: no-repeat;
@@ -3379,7 +3379,7 @@ figure {
 .landing-inner-page-icon {
     z-index: 10;
     color: #fff;
-    background-color: #ffce10;
+    background-color: #39b583;
     border-radius: 50%;
     justify-content: center;
     align-items: center;
@@ -3405,7 +3405,7 @@ figure {
 }
 
 .landing-progress-bar-88 {
-    background-color: #ffce10;
+    background-color: #39b583;
     border-radius: 10px;
     width: 88%;
     height: 15px;
@@ -3414,7 +3414,7 @@ figure {
 }
 
 .style-guide-banner-section {
-    background-color: #ffce10;
+    background-color: #39b583;
     justify-content: center;
     align-items: center;
     min-height: 450px;
@@ -3545,7 +3545,7 @@ figure {
 .text-button {
     grid-column-gap: 10px;
     grid-row-gap: 10px;
-    color: #ffce10;
+    color: #39b583;
     background-color: transparent;
     justify-content: center;
     align-items: center;
@@ -3596,7 +3596,7 @@ figure {
 
 .grid-title {
     color: #fff;
-    background-color: #ffce10;
+    background-color: #39b583;
     border-left: 1px #a7a7a7;
     border-right: 1px solid #7c7c7c;
     justify-content: center;
@@ -3608,7 +3608,7 @@ figure {
 }
 
 .grid-title.first-grid {
-    background-color: #ffce10;
+    background-color: #39b583;
     border-left-style: solid;
     border-left-color: #7c7c7c;
     width: 24%;
@@ -3908,7 +3908,7 @@ figure {
 }
 
 .pricing-plans {
-    color: #ffce10;
+    color: #39b583;
     font-weight: 700
 }
 
@@ -3998,7 +3998,7 @@ figure {
 }
 
 .secondary-button-blue {
-    color: #ffce10;
+    color: #39b583;
     text-align: center;
     letter-spacing: .5px;
     background-color: #0d2342;
@@ -4085,7 +4085,7 @@ figure {
 }
 
 .progress-item-bar-80 {
-    background-color: #ffce10;
+    background-color: #39b583;
     width: 80%;
     height: 5px;
     margin-top: -5px;
@@ -4126,7 +4126,7 @@ figure {
 }
 
 .author-position-home-1 {
-    color: #ffce10;
+    color: #39b583;
     margin-top: 0;
     margin-bottom: 0
 }
@@ -4335,7 +4335,7 @@ figure {
 
 .accordion-toggle {
     white-space: normal;
-    background-color: #ffce10;
+    background-color: #39b583;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
@@ -4409,7 +4409,7 @@ figure {
 }
 
 .yellow-line {
-    background-color: #ffce10;
+    background-color: #39b583;
     height: 5px;
     position: absolute;
     top: 0%;
@@ -4491,7 +4491,7 @@ figure {
 }
 
 .progress-item-bar-70 {
-    background-color: #ffce10;
+    background-color: #39b583;
     width: 70%;
     height: 5px;
     margin-top: -5px;
@@ -4600,7 +4600,7 @@ figure {
 }
 
 .round-wrap {
-    border: 2px solid #ffce10;
+    border: 2px solid #39b583;
     border-radius: 100%;
     justify-content: center;
     align-items: center;
@@ -4784,7 +4784,7 @@ figure {
 }
 
 .progress-item-bar-90 {
-    background-color: #ffce10;
+    background-color: #39b583;
     width: 90%;
     height: 5px;
     margin-top: -5px;
@@ -4871,7 +4871,7 @@ figure {
 }
 
 .section-with-blue-background {
-    background-color: #ffce10;
+    background-color: #39b583;
     position: relative;
     overflow: hidden
 }
@@ -4966,7 +4966,7 @@ figure {
 
 .home-3-video-slider-right-arrow {
     color: #fff;
-    background-color: #ffce10;
+    background-color: #39b583;
     justify-content: center;
     align-items: center;
     width: 60px;
@@ -4980,7 +4980,7 @@ figure {
 }
 
 .home-3-video-slider-right-arrow:hover {
-    color: #ffce10;
+    color: #39b583;
     background-color: #fff
 }
 
@@ -5029,7 +5029,7 @@ figure {
 
 .home-3-slider-left-arrow {
     color: #fff;
-    background-color: #ffce10;
+    background-color: #39b583;
     justify-content: center;
     align-items: center;
     width: 60px;
@@ -5043,7 +5043,7 @@ figure {
 }
 
 .home-3-slider-left-arrow:hover {
-    color: #ffce10;
+    color: #39b583;
     background-color: #fff
 }
 
@@ -5220,7 +5220,7 @@ figure {
 }
 
 .home-3-slider-right-arrow {
-    color: #ffce10;
+    color: #39b583;
     background-color: #fff;
     justify-content: center;
     align-items: center;
@@ -5236,7 +5236,7 @@ figure {
 
 .home-3-slider-right-arrow:hover {
     color: #fff;
-    background-color: #ffce10
+    background-color: #39b583
 }
 
 .our-photo._01 {
@@ -5319,7 +5319,7 @@ figure {
 }
 
 .home-3-video-slider-left-arrow {
-    color: #ffce10;
+    color: #39b583;
     background-color: #fff;
     justify-content: center;
     align-items: center;
@@ -5334,7 +5334,7 @@ figure {
 
 .home-3-video-slider-left-arrow:hover {
     color: #fff;
-    background-color: #ffce10
+    background-color: #39b583
 }
 
 .title-text-container {
@@ -5822,7 +5822,7 @@ figure {
 }
 
 .testimonials-quote-icon-3 {
-    color: #ffce10;
+    color: #39b583;
     margin-bottom: 0;
     font-family: "Fa Solid 900", sans-serif;
     font-size: 62px;
@@ -5852,7 +5852,7 @@ figure {
 }
 
 .home-9-banner-arrow-right:hover {
-    color: #ffce10;
+    color: #39b583;
     background-color: #eef4f8
 }
 
@@ -5975,7 +5975,7 @@ figure {
 }
 
 .home-9-services-icon {
-    color: #ffce10;
+    color: #39b583;
     width: auto;
     height: 40px;
     font-size: 28px;
@@ -6028,7 +6028,7 @@ figure {
 }
 
 .team-slider-social-icon:hover {
-    color: #ffce10
+    color: #39b583
 }
 
 .team-slider-social-icon.last-child {
@@ -6056,7 +6056,7 @@ figure {
 }
 
 .home-9-banner-arrow-left:hover {
-    color: #ffce10;
+    color: #39b583;
     background-color: #eef4f8
 }
 
@@ -6098,7 +6098,7 @@ figure {
 .home-9-tab-link.w--current {
     opacity: 1;
     color: #fff;
-    background-color: #ffce10;
+    background-color: #39b583;
     box-shadow: 0 0 30px rgba(15, 92, 250, .1)
 }
 
@@ -6165,7 +6165,7 @@ figure {
 }
 
 .yellow-title {
-    color: #ffce10;
+    color: #39b583;
     margin-top: 0;
     margin-bottom: 0
 }
@@ -6201,7 +6201,7 @@ figure {
 }
 
 .primary-color-background {
-    background-color: #ffce10;
+    background-color: #39b583;
     background-image: linear-gradient(rgba(3, 14, 31, .58), rgba(3, 14, 31, .58)), url("https://assets-global.website-files.com/65e08dfda73cbcf6a581a914/65e5851a063107f78ed8a929_Home-Banner%203%20(1)%20(1).webp");
     background-position: 0 0, 50%;
     background-size: auto, auto;
@@ -6246,7 +6246,7 @@ figure {
 }
 
 .text-block {
-    color: #ffce10;
+    color: #39b583;
     padding-top: 20px;
     padding-right: 20px;
     font-family: "Fa Solid 900", sans-serif;
@@ -6254,7 +6254,7 @@ figure {
 }
 
 .portfolio-empty-state {
-    color: #ffce10;
+    color: #39b583;
     background-color: transparent;
     padding: 30px;
     font-family: Lato, sans-serif;
@@ -6398,7 +6398,7 @@ figure {
 
 .home-9-blog-category-link {
     color: #fff;
-    background-color: #ffce10;
+    background-color: #39b583;
     padding: 4px 10px;
     font-size: 14px;
     line-height: 1.6em;
@@ -6497,7 +6497,7 @@ figure {
 
 .home-4-pricing-background {
     z-index: -1;
-    background-color: #ffce10;
+    background-color: #39b583;
     height: 400px;
     position: absolute;
     top: 0%;
@@ -6535,7 +6535,7 @@ figure {
 }
 
 .home-team-member-position {
-    color: #ffce10;
+    color: #39b583;
     letter-spacing: .5px;
     text-transform: uppercase;
     font-size: 14px;
@@ -6575,7 +6575,7 @@ figure {
 }
 
 .testimonial-card-quote-icon {
-    color: #ffce10;
+    color: #39b583;
     font-family: "Fa Solid 900", sans-serif;
     font-size: 32px;
     line-height: 1;
@@ -6590,7 +6590,7 @@ figure {
 }
 
 .team-social-link:hover {
-    color: #ffce10
+    color: #39b583
 }
 
 .home-4-featured-blog-posts-wrapper {
@@ -6628,7 +6628,7 @@ figure {
 }
 
 .home-form-left-block {
-    background-color: #ffce10;
+    background-color: #39b583;
     width: 35%;
     min-height: 400px;
     padding-top: 100px;
@@ -6764,7 +6764,7 @@ figure {
 }
 
 .yellow-h2 {
-    color: #ffce10
+    color: #39b583
 }
 
 .features-wrapper-home-6 {
@@ -6798,11 +6798,11 @@ figure {
 
 .accent-text-color,
 .text-in-yellow {
-    color: #ffce10
+    color: #39b583
 }
 
 .home-4-banner-slider-arrow {
-    color: #ffce10;
+    color: #39b583;
     background-color: #fff;
     width: 50px;
     height: 50px;
@@ -6813,7 +6813,7 @@ figure {
 
 .home-4-banner-slider-arrow:hover {
     color: #fff;
-    background-color: #ffce10
+    background-color: #39b583
 }
 
 .home-4-banner-slider-arrow.home-banner-left {
@@ -6930,7 +6930,7 @@ figure {
 }
 
 .our-yellow-line {
-    background-color: #ffce10;
+    background-color: #39b583;
     height: 2px;
     position: absolute;
     top: auto;
@@ -7006,7 +7006,7 @@ figure {
 
 .testimonials-slider-text-wrapper {
     background-color: #fff;
-    border-left: 4px solid #ffce10;
+    border-left: 4px solid #39b583;
     min-height: 230px;
     padding: 30px 35px;
     box-shadow: 0 0 30px rgba(15, 92, 250, .06)
@@ -7138,7 +7138,7 @@ figure {
 
 .home-5-social-icon-item {
     color: #fff;
-    background-color: #ffce10;
+    background-color: #39b583;
     border-radius: 50%;
     justify-content: center;
     align-items: center;
@@ -7150,7 +7150,7 @@ figure {
 }
 
 .home-5-social-icon-item:hover {
-    color: #ffce10;
+    color: #39b583;
     background-color: #fff
 }
 
@@ -7351,11 +7351,11 @@ figure {
 
 .tab:hover {
     opacity: 1;
-    color: #ffce10
+    color: #39b583
 }
 
 .tab.w--current {
-    color: #ffce10;
+    color: #39b583;
     background-color: transparent;
     padding-left: 20px;
     padding-right: 20px
@@ -7391,7 +7391,7 @@ figure {
 }
 
 .right-arrow-services {
-    background-color: #ffce10;
+    background-color: #39b583;
     width: 70px;
     height: 40px;
     top: 220px;
@@ -7570,7 +7570,7 @@ figure {
 }
 
 .services-blue-background {
-    background-color: #ffce10;
+    background-color: #39b583;
     width: 100%;
     height: 185px
 }
@@ -7644,7 +7644,7 @@ figure {
 
 .home-project-collection-item-category:hover {
     opacity: 1;
-    color: #ffce10
+    color: #39b583
 }
 
 .home-project-collection-item-title {
@@ -7658,15 +7658,15 @@ figure {
 
 .home-project-collection-item-title:hover {
     opacity: 1;
-    color: #ffce10
+    color: #39b583
 }
 
 .home-project-collection-lightbox {
     z-index: 10;
-    border-top: 70px #ffce10;
+    border-top: 70px #39b583;
     border-bottom: 70px solid transparent;
     border-left: 1px #000;
-    border-right: 70px solid #ffce10;
+    border-right: 70px solid #39b583;
     justify-content: center;
     align-items: center;
     width: 70px;
@@ -7785,7 +7785,7 @@ figure {
 
 .home-5-banner-slider-button {
     text-transform: uppercase;
-    border: 1px solid #ffce10;
+    border: 1px solid #39b583;
     border-radius: 50%;
     justify-content: center;
     align-items: center;
@@ -7798,13 +7798,13 @@ figure {
 
 .home-5-banner-slider-button:hover {
     color: #fff;
-    background-color: #ffce10
+    background-color: #39b583
 }
 
 .home-5-banner-slider-category-link {
     color: #fff;
-    background-color: #ffce10;
-    border: 1px solid #ffce10;
+    background-color: #39b583;
+    border: 1px solid #39b583;
     border-radius: 50%;
     justify-content: center;
     align-items: center;
@@ -7821,7 +7821,7 @@ figure {
 }
 
 .home-5-banner-slider-category-link:hover {
-    color: #ffce10;
+    color: #39b583;
     background-color: #fff
 }
 
@@ -7971,7 +7971,7 @@ figure {
 }
 
 .text-white-6.yellow-color {
-    color: #ffce10
+    color: #39b583
 }
 
 .about-3-tabs-menu {
@@ -8196,7 +8196,7 @@ figure {
 }
 
 .about-3-card-number {
-    color: #ffce10;
+    color: #39b583;
     margin-top: 20px;
     margin-bottom: 30px;
     font-family: Helveticaneuecyr, sans-serif;
@@ -8270,7 +8270,7 @@ figure {
 }
 
 .team-slider-background {
-    background-color: #ffce10;
+    background-color: #39b583;
     width: 30%;
     height: 100%;
     position: absolute;
@@ -8318,7 +8318,7 @@ figure {
 }
 
 .testimonials-quote-icon-5 {
-    color: #ffce10;
+    color: #39b583;
     margin-bottom: 40px;
     font-family: "Fa Solid 900", sans-serif;
     font-size: 50px;
@@ -8389,7 +8389,7 @@ figure {
 
 .slider-nav-active-item-2 {
     z-index: 10;
-    background-color: #ffce10;
+    background-color: #39b583;
     border-radius: 50%;
     width: 14px;
     height: 14px;
@@ -8412,7 +8412,7 @@ figure {
 }
 
 .team-slider-social-icon-3:hover {
-    color: #ffce10
+    color: #39b583
 }
 
 .team-slider-social-icon-3.last-child {
@@ -8472,7 +8472,7 @@ figure {
 
 .testimonials-slider-arrow-icon-2:hover,
 .yellow-h3 {
-    color: #ffce10
+    color: #39b583
 }
 
 .team-slide-item {
@@ -8511,7 +8511,7 @@ figure {
 }
 
 .section-4.banner-our-process {
-    background-color: #ffce10;
+    background-color: #39b583;
     background-image: linear-gradient(45deg, #0d2342, rgba(0, 0, 0, .1) 72%, rgba(255, 206, 16, .33) 102%), url(https://assets-global.website-files.com/65e08dfda73cbcf6a581a914/65ef05385da2cdd10ee301c1_Banner%203.webp);
     background-position: 0 0, 50%;
     background-size: auto, auto;
@@ -8654,7 +8654,7 @@ figure {
 }
 
 .section-4.banner {
-    background-color: #ffce10;
+    background-color: #39b583;
     background-image: linear-gradient(315deg, #0d2342, rgba(13, 35, 66, .4) 63%, rgba(255, 206, 16, .41)), url(https://assets-global.website-files.com/65e08dfda73cbcf6a581a914/65e1e2a5d98a285b75d613b6_home%201%20suit%20\(1\).webp);
     background-position: 0 0, 0 0;
     background-size: auto, auto;
@@ -8809,7 +8809,7 @@ figure {
 }
 
 .play-button-hover-2.primary-color {
-    border-color: #ffce10
+    border-color: #39b583
 }
 
 .about-4-video {
@@ -8858,7 +8858,7 @@ figure {
 }
 
 .about-big-number {
-    color: #ffce10;
+    color: #39b583;
     margin-bottom: 0;
     margin-right: 20px;
     font-family: Bitter, serif;
@@ -8918,7 +8918,7 @@ figure {
 }
 
 .counter-progressbar-number.dark {
-    color: #ffce10
+    color: #39b583
 }
 
 .counter-progressbar-static-container {
@@ -8942,7 +8942,7 @@ figure {
 }
 
 .play-button-2.primary-color {
-    background-color: #ffce10
+    background-color: #39b583
 }
 
 .about-4-images-wrapper {
@@ -9042,7 +9042,7 @@ figure {
 }
 
 .counter-progressbar-mask.right.dark {
-    border-color: #ffce10 #ffce10 #ffce10 rgba(15, 92, 250, 0)
+    border-color: #39b583 #39b583 #39b583 rgba(15, 92, 250, 0)
 }
 
 .counter-progressbar-mask.left {
@@ -9060,7 +9060,7 @@ figure {
 }
 
 .counter-progressbar-mask.left.dark {
-    border-color: #ffce10 rgba(15, 92, 250, 0) #ffce10 #ffce10
+    border-color: #39b583 rgba(15, 92, 250, 0) #39b583 #39b583
 }
 
 .home-10-counter-content-wrapper {
@@ -9181,7 +9181,7 @@ figure {
 }
 
 .happy-clients-wrap {
-    color: #ffce10;
+    color: #39b583;
     font-size: 70px
 }
 
@@ -9231,14 +9231,14 @@ figure {
 }
 
 .progress-item-3-blue {
-    background-color: #ffce10;
+    background-color: #39b583;
     height: 3px;
     position: absolute
 }
 
 .item-customer-reviews {
     background-color: #fff;
-    border-left: 4px solid #ffce10;
+    border-left: 4px solid #39b583;
     border-radius: 10px;
     flex-direction: column;
     width: 400px;
@@ -9429,7 +9429,7 @@ figure {
 }
 
 .team-card-image {
-    color: #ffce10;
+    color: #39b583;
     object-fit: cover;
     width: 100%;
     min-width: 100%;
@@ -9667,7 +9667,7 @@ figure {
 
 .home-project-collection-item-title-2:hover {
     opacity: 1;
-    color: #ffce10
+    color: #39b583
 }
 
 .lightbox-intro-wrap {
@@ -9767,7 +9767,7 @@ figure {
 }
 
 .process-number {
-    color: #ffce10;
+    color: #39b583;
     font-size: 66px;
     line-height: 1
 }
@@ -9822,7 +9822,7 @@ figure {
 }
 
 .testimonials-card-icon {
-    color: #ffce10;
+    color: #39b583;
     margin-bottom: 30px
 }
 
@@ -9897,7 +9897,7 @@ figure {
 }
 
 .values-counter-number {
-    color: #ffce10;
+    color: #39b583;
     margin-bottom: 15px
 }
 
@@ -9942,7 +9942,7 @@ figure {
 }
 
 .job-position-icon {
-    color: #ffce10;
+    color: #39b583;
     margin-right: 10px;
     font-family: "Fa Solid 900", sans-serif;
     font-size: 18px
@@ -9979,7 +9979,7 @@ figure {
 }
 
 .contacts-icon-2 {
-    color: #ffce10;
+    color: #39b583;
     align-items: flex-start;
     margin-top: 0;
     margin-bottom: 0;
@@ -10265,7 +10265,7 @@ figure {
 }
 
 .contacts-icon-3 {
-    color: #ffce10;
+    color: #39b583;
     margin-top: 0;
     margin-bottom: 0;
     margin-right: 15px;
@@ -10532,7 +10532,7 @@ figure {
 }
 
 .project-template-social-link {
-    border: 1px solid #ffce10;
+    border: 1px solid #39b583;
     border-radius: 50%;
     justify-content: center;
     align-items: center;
@@ -10548,7 +10548,7 @@ figure {
 
 .project-template-social-link:hover {
     color: #fff;
-    background-color: #ffce10
+    background-color: #39b583
 }
 
 .project-template-social-link.last-child {
@@ -10574,7 +10574,7 @@ figure {
 }
 
 .project-button-link:hover {
-    color: #ffce10
+    color: #39b583
 }
 
 .project-template-social-icons {
@@ -10596,7 +10596,7 @@ figure {
 }
 
 .project-template-category {
-    color: #ffce10;
+    color: #39b583;
     margin-bottom: 30px;
     font-size: 18px;
     transition: color .5s;
@@ -10697,7 +10697,7 @@ figure {
 }
 
 .portfolio-tab-link.w--current {
-    color: #ffce10;
+    color: #39b583;
     background-color: transparent
 }
 
@@ -10868,8 +10868,8 @@ figure {
 .blog-sidebar-post-category {
     z-index: 10;
     color: #fff;
-    background-color: #ffce10;
-    border: 1px solid #ffce10;
+    background-color: #39b583;
+    border: 1px solid #39b583;
     margin-bottom: 25px;
     padding: 5px 8px;
     transition: all .3s;
@@ -10878,7 +10878,7 @@ figure {
 }
 
 .blog-sidebar-post-category:hover {
-    color: #ffce10;
+    color: #39b583;
     background-color: #fff
 }
 
@@ -10992,7 +10992,7 @@ figure {
 }
 
 .portfolio-grad-title:hover {
-    color: #ffce10
+    color: #39b583
 }
 
 .portfolio-grid-category {
@@ -11051,7 +11051,7 @@ figure {
 }
 
 .portfolio-masonry-lightbox {
-    border-bottom: 120px solid #ffce10;
+    border-bottom: 120px solid #39b583;
     border-left: 120px solid transparent;
     transition: all .45s;
     position: absolute;
@@ -11250,14 +11250,14 @@ figure {
 .blog-classic-post-category {
     background-color: var(--primary-yellow);
     color: #fff;
-    border: 1px solid #ffce10;
+    border: 1px solid #39b583;
     margin-bottom: 30px;
     padding: 5px 8px;
     display: inline-block
 }
 
 .blog-classic-post-category:hover {
-    color: #ffce10;
+    color: #39b583;
     background-color: transparent
 }
 
@@ -11280,7 +11280,7 @@ figure {
 }
 
 .blog-classic-post-title:hover {
-    color: #ffce10
+    color: #39b583
 }
 
 .blog-classic-top-content {
@@ -11293,7 +11293,7 @@ figure {
 .blog-classic-post-date {
     z-index: 10;
     color: #fff;
-    background-color: #ffce10;
+    background-color: #39b583;
     border-radius: 3px;
     margin-top: -13px;
     padding: 3px 15px;
@@ -11339,14 +11339,14 @@ figure {
 
 .sidebar-category {
     color: #fff;
-    background-color: #ffce10;
-    border: 1px solid #ffce10;
+    background-color: #39b583;
+    border: 1px solid #39b583;
     padding: 5px 8px;
     display: inline-block
 }
 
 .sidebar-category:hover {
-    color: #ffce10;
+    color: #39b583;
     background-color: transparent
 }
 
@@ -11393,7 +11393,7 @@ figure {
 }
 
 .blog-sidebar-post-title:hover {
-    color: #ffce10
+    color: #39b583
 }
 
 .sidebar-item {
@@ -14299,7 +14299,7 @@ figure {
 
     .tab:hover {
         opacity: 1;
-        color: #ffce10
+        color: #39b583
     }
 
     .tabs-content {
