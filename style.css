@@ -5240,7 +5240,7 @@ figure {
 }
 
 .our-photo._01 {
-    background-image: url('Images/EDMS.png');
+    background-image: url('Images/ERP.jpeg');
     background-position: 50% 22%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -5285,7 +5285,7 @@ figure {
 }
 
 .our-photo._02 {
-    background-image: url("https://assets-global.website-files.com/65e08dfda73cbcf6a581a914/65e1b9937408fde9488af115_two-businessmen-pointing-laptop-screen-while-discussing%20(1)%20(1)%20(1).jpg");
+    background-image: url('Images/Tech.jpg');
     background-position: 50% 0;
     background-repeat: no-repeat;
     background-size: cover;
@@ -13182,7 +13182,7 @@ figure {
     }
 
     .top-mobile-menu {
-        background-color: #0d2342;
+        background-color: #040404;
         justify-content: flex-start;
         min-width: 320px;
         max-width: 320px;
