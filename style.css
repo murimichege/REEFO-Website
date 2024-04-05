@@ -3277,8 +3277,8 @@ figure {
 }
 
 .section {
-    padding-top: 80px;
-    padding-bottom: 80px;
+    
+   
     position: relative;
     overflow: hidden
 }
@@ -8569,7 +8569,7 @@ figure {
 }
 
 .section-4.contacts-2-banner {
-    background-image: linear-gradient(270deg, #29201e, rgba(0, 0, 0, .2)), url(https://assets-global.website-files.com/65e08dfda73cbcf6a581a914/65ef0537b0c818350cc8eb6e_Banner%202%20\(2\).webp);
+    background-image: linear-gradient(270deg, #29201e, rgba(0, 0, 0, .2)), url("Images/Contact.jpg");
     background-position: 0 0, 50% 100%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -8581,7 +8581,7 @@ figure {
 }
 
 .section-4.contacts-3-banner {
-    background-image: linear-gradient(315deg, rgba(255, 206, 16, .46), rgba(5, 28, 41, .4) 73%, #0d2342), url("https://assets-global.website-files.com/65e08dfda73cbcf6a581a914/65e5851a063107f78ed8a929_Home-Banner%203%20(1)%20(1).webp");
+    background-image: linear-gradient(315deg, rgba(255, 206, 16, .46), rgba(5, 28, 41, .4) 73%, #0d2342), url("Images/Contact.jpg");
     background-position: 0 0, 0 0;
     background-size: auto, cover;
     background-attachment: scroll, fixed;
