@@ -4837,7 +4837,6 @@ figure {
 .our-purpose-blue-wrap {
     grid-column-gap: 16px;
     grid-row-gap: 16px;
-    background-image: linear-gradient(rgba(13, 35, 66, .9), rgba(13, 35, 66, .9)), url("https://assets-global.website-files.com/65e08dfda73cbcf6a581a914/65e1b9937408fde9488af111_pexels-mikael-blomkvist-6476260%20(1)%20(1).webp");
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
