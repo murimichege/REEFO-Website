@@ -5704,10 +5704,10 @@ figure {
     right: 0%
 }
 
-.video-banner-overlay.photo-banner-2 {
+/* .video-banner-overlay.photo-banner-2 {
     background-color: rgba(13, 35, 66, .5);
     background-image: radial-gradient(circle farthest-corner at 50% 50%, rgba(6, 23, 48, .75) 4%, var(--transparent)95%), linear-gradient(135deg, rgba(255, 206, 16, .32), var(--transparent)54%, rgba(13, 35, 66, .6) 79%)
-}
+} */
 
 .banner-slider-content {
     text-align: center;
