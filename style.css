@@ -5577,7 +5577,7 @@ figure {
     overflow: hidden
 }
 
-.hero-collection-wrapper {
+.w-dyn-list {
     width: 100%;
     height: 100%
 }
@@ -5676,8 +5676,7 @@ figure {
     background-image: url(https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg);
     background-position: 50%;
     background-size: cover;
-    width: 100%;
-    height: 100%;
+  
     display: flex;
     position: absolute;
     top: 0%;
@@ -5868,10 +5867,24 @@ figure {
     width: 70%;
     display: flex
 }
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio (9 / 16 * 100) */
+    overflow: hidden;
+}
+
+.video-container video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
 
 .home-3-slide {
     background-image: linear-gradient(270deg, #0d2342, transparent), url(https://assets-global.website-files.com/65e08dfda73cbcf6a581a914/65e1e2a5d98a285b75d613b6_home%201%20suit%20\(1\).webp);
-    background-position: 0 0, 50%;
+    background-position: 0 0, 100%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover
 }
