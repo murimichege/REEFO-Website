@@ -5870,17 +5870,11 @@ figure {
 .video-container {
     position: relative;
     width: 100%;
-    padding-bottom: 56.25%; /* 16:9 aspect ratio (9 / 16 * 100) */
+    height: 0;
+    padding-bottom: 70.25%; /* 16:9 aspect ratio (9 / 16 * 100) */
     overflow: hidden;
 }
 
-.video-container video {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
 
 .home-3-slide {
     background-image: linear-gradient(270deg, #0d2342, transparent), url(https://assets-global.website-files.com/65e08dfda73cbcf6a581a914/65e1e2a5d98a285b75d613b6_home%201%20suit%20\(1\).webp);
