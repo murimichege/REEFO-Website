@@ -2534,6 +2534,13 @@ figure {
     font-family: "Fa Solid 900", sans-serif;
     font-size: 12px
 }
+.text-span-4 {
+    color: #0d2342;
+    font-family: "Fa Solid 900", sans-serif;
+    font-size: 12px;
+    padding-left: 0.4;
+
+}
 
 .landing-inner-page-image-wrapper {
     justify-content: center;
