@@ -5298,6 +5298,31 @@ figure {
     border-radius: 5px;
     min-height: 300px
 }
+.our-photo._07 {
+    background-image: url('Images/cybersec.jpeg');
+    background-position: 50% 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    min-height: 300px
+}
+.our-photo._08 {
+    background-image: url('Images/datastore.jpg');
+    background-position: 50% 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    min-height: 300px
+}
+.our-photo._09 {
+    background-image: url('Images/network1.jpg');
+    background-position: 50% 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    min-height: 300px
+}
+
 
 .home-3-slide-image {
     object-fit: cover;
